@@ -1,0 +1,11 @@
+oil_prices*.csv
+temperature*.json
+train_data*.csv
+
+
+.idea/
+.venv/
+.ipynb_checkpoints/
+
+price_regression.ipynb
+graphs/
