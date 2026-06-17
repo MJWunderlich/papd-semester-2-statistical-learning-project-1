@@ -7,5 +7,5 @@ train_data*.csv
 .venv/
 .ipynb_checkpoints/
 
-price_regression.ipynb
+other/price_regression.ipynb
 graphs/
